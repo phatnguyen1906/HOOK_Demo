@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\MouseHook_noUIAutomatic\bin\Debug\MouseHook_noUIAutomatic.exe.config
+C:\Users\ASUS\source\repos\MouseHook_noUIAutomatic\bin\Debug\MouseHook_noUIAutomatic.exe
+C:\Users\ASUS\source\repos\MouseHook_noUIAutomatic\bin\Debug\MouseHook_noUIAutomatic.pdb
+C:\Users\ASUS\source\repos\MouseHook_noUIAutomatic\obj\Debug\MouseHook_noUIAutomatic.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MouseHook_noUIAutomatic\obj\Debug\MouseHook_noUIAutomatic.Properties.Resources.resources
+C:\Users\ASUS\source\repos\MouseHook_noUIAutomatic\obj\Debug\MouseHook_noUIAutomatic.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\MouseHook_noUIAutomatic\obj\Debug\MouseHook_noUIAutomatic.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MouseHook_noUIAutomatic\obj\Debug\MouseHook_noUIAutomatic.exe
+C:\Users\ASUS\source\repos\MouseHook_noUIAutomatic\obj\Debug\MouseHook_noUIAutomatic.pdb

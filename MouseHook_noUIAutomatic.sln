@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseHook_noUIAutomatic", "MouseHook_noUIAutomatic.csproj", "{90AE0E99-4F28-48F7-853C-C32A237C9BCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90AE0E99-4F28-48F7-853C-C32A237C9BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90AE0E99-4F28-48F7-853C-C32A237C9BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90AE0E99-4F28-48F7-853C-C32A237C9BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90AE0E99-4F28-48F7-853C-C32A237C9BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEA42CDE-C267-4253-94CE-23596A972E29}
+	EndGlobalSection
+EndGlobal
