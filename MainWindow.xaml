@@ -1,0 +1,13 @@
+<Window
+    x:Class="YourNamespace.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Grid>
+        <TextBlock Text="Chọn text bất kỳ để tra từ điển" 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Center"/>
+        
+        <!-- Thêm các control khác tùy nhu cầu -->
+    </Grid>
+</Window> 

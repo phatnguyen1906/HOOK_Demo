@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseHook", "MouseHook.csproj", "{6C117194-B9DE-490E-A011-59C81FFF45F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C117194-B9DE-490E-A011-59C81FFF45F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C117194-B9DE-490E-A011-59C81FFF45F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C117194-B9DE-490E-A011-59C81FFF45F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C117194-B9DE-490E-A011-59C81FFF45F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {513F3B8A-AAF2-4DF4-9158-6B778D166755}
+	EndGlobalSection
+EndGlobal
